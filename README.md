@@ -66,14 +66,14 @@ A campus maintenance management system designed to simplify maintenance requests
 
 ---
 
-
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravenc3&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenc3&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ravenc3&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ravenc3&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
 
+---
 
 ## My Philosophy
 
