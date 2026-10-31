@@ -46,6 +46,25 @@ React · Vite · Supabase
 Git · GitHub · Visual Studio Code · Jira · Cloudflare Pages
 </p>
 
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,js,html,css" />
+</p>
+
+### Frameworks & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,supabase" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,cloudflare" />
+</p>
+
+
 ## Areas of Interest
 
 - Software Engineering
