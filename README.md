@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Mustafa - Developer Banner" />
+</p>
+
+---
+
 # Hey, I'm Mustafa 👋
 
 ### Software Developer | Technology Enthusiast | Problem Solver
