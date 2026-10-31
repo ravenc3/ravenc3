@@ -75,6 +75,15 @@ A campus maintenance management system designed to simplify maintenance requests
 
 ---
 
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ravenc3&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
 ## My Philosophy
 
 > Understand the technology. Connect the pieces. Build something meaningful.
