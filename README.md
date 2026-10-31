@@ -29,24 +29,6 @@ A campus maintenance management system designed to simplify maintenance requests
 
 ---
 
-## Technologies & Tools
-
-### Programming & Web Technologies
-<p>
-C · JavaScript · HTML5 · CSS3
-</p>
-
-### Frameworks & Platforms
-<p>
-React · Vite · Supabase
-</p>
-
-### Development & Collaboration Tools
-<p>
-Git · GitHub · Visual Studio Code · Jira · Cloudflare Pages
-</p>
-
-
 ## Tech Stack
 
 ### Languages
